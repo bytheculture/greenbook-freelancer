@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const BusinessSchema = new mongoose.Schema({
+const FreelancerSchema = new mongoose.Schema({
   freelancerName: String,
   category: String,
   profilePhoto: String,
